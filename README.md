@@ -1,3 +1,2 @@
 # PEP Skripte
-Python Skripte für PEP
-Bisher nur von PEP3 Quantenmechanik
+Python Skripte für PEP, bisher nur von PEP3 Quantenmechanik
