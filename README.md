@@ -1,2 +1,2 @@
-# PEP Skripte
-Python Skripte für PEP, bisher von PEP3 Quantenmechanik und PEP4 Kern- und Teilchenphysik
+# PEP Scripts
+Jupyter Notebook scripts for Experimental Physics, PEP3 and PEP4
